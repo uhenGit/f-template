@@ -1,0 +1,40 @@
+.title {
+    margin: 145px auto;
+}
+.title h4 {
+    text-align: center;
+}
+.title p {
+    text-align: center;
+    padding: 0 10px;
+}
+.contact {
+    display: none;
+}
+.about {
+    display: block;
+    text-align: center;
+}
+.about_us {
+    padding-right: 0;
+}
+.grey {
+    margin: 0 auto 42px auto;
+}
+.reserv {
+    display: block;
+}
+.miniwrap {
+    margin: 0 auto 25px auto;
+    /* width: 26%; */
+}
+.reserv_btn {
+    transform: scale(0.8);
+}
+.foot {
+    display: block;
+}
+.contact_block {
+    text-align: center;
+    padding-bottom: 30px;
+}

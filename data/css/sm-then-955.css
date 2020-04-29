@@ -1,0 +1,28 @@
+
+.wow {
+    transform: scale(0.8);
+}
+.content_menu {
+    justify-content: center;
+}
+.miniwrap {
+    transform: scale(0.8);
+}
+.reserv_block {
+    text-align: center;
+}
+select {
+    /* for Firefox */
+    -moz-appearance: none;
+    /* for Chrome */
+    -webkit-appearance: none;
+}
+  
+  /* For IE10 */
+select::-ms-expand {
+    display: none;
+  }
+input,
+select {
+    padding-left: 5px;
+}

@@ -1,0 +1,57 @@
+.title h2 {
+    max-width: 576px;
+    text-align: center;
+}
+ul.flex {
+    display: none;
+}
+.mob_nav {
+    display: block;
+    cursor: pointer;
+    position: fixed;
+    top: 0%;
+    left: 72%;
+    z-index: 1;
+}
+ul.show {
+    display: block;
+    position: fixed;
+    right: 0; 
+    top: 0; 
+    width: 80%;
+    height: 100%;
+    background: rgba(100, 100, 100, 0.7);
+    overflow: hidden;
+    
+}
+ul.show>li {
+    padding: 10px 0;
+
+}
+h2 {
+    font-size: 33px;
+}
+.grey {
+    transform: scale(0.7);
+    position: relative;
+    left: -47px;
+}
+/* .bx-wrapper {
+    max-height: 175px;
+} */
+.menu1 {
+    padding-left: 10px;
+    min-width: 320px;
+}
+.menu1:nth-child(odd) {
+    display: none;
+}
+.submenu1 span {
+    font-size: 18px;
+}
+.submenu1 h5 {
+    font-size: 17px;
+}
+.price {
+    padding: 80px 5px 0px 0px;
+}
